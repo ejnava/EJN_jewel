@@ -1,0 +1,71 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.freq_question {    
+  h1 {
+    margin: 0;
+    padding-bottom: 0.5em;
+    font:  150% sans-serif;
+    color: black;
+    border-bottom: 3px dotted red;
+  }
+
+  /* An entry in the store catalog */
+  .question {
+    font:  105% sans-serif;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 3em;
+  }
+  
+  .response {
+    font:  100% sans-serif;
+    font-weight: normal;
+    color: black;
+    margin-bottom: 3em;
+    border-bottom: 3px dotted black;
+  } 
+}
+
+.new_news {    
+  h1 {
+    margin: 0;
+    padding-bottom: 0.5em;
+    font:  150% sans-serif;
+    color: black;
+    border-bottom: 3px dotted red;
+  }
+
+  /* An entry in the store catalog */
+  .news_headline {
+    font:  105% sans-serif;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 3em;
+  }
+  
+  .news_text {
+    font:  100% sans-serif;
+    font-weight: normal;
+    color: black;
+    margin-bottom: 3em;
+    border-bottom: 3px dotted black;
+  } 
+}
+.contact_cl {    
+  h1 {
+    margin: 0;
+    padding-bottom: 0.5em;
+    font:  150% sans-serif;
+    color: black;
+    border-bottom: 3px dotted red;
+  }
+
+  /* An entry in the store catalog */
+  .contact_info{
+    font:  105% sans-serif;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 3em;
+  }
+}

@@ -1,4 +1,10 @@
 Depot::Application.routes.draw do
+  get "pages/contact"
+
+  get "pages/faq"
+
+  get "pages/news"
+
   resources :orders
 
   resources :line_items
