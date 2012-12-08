@@ -36,10 +36,13 @@
 #columns {
   background: #6f559d;
 
-  #main {
+  #main, #map_canvas {
     margin-left: 17em;
     padding: 1em;
     background: white;
+    
+    height: 80%;
+    
   }
 
   #side {

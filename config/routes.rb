@@ -1,10 +1,12 @@
 Depot::Application.routes.draw do
+  get "map_display/map"
+  
   get "pages/contact"
 
   get "pages/faq"
 
   get "pages/news"
-
+  
   resources :orders
 
   resources :line_items
